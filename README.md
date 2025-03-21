@@ -19,8 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sibendra07&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>⚡️ Where to find me</h2> ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucifer4742) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sibendra.maharjan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SibendraMaharjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibendra-maharjan-945302323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibendra07@gmail.com) 
+<h2>⚡️ Where to find me</h2>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Sibendra07) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucifer4742) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sibendra.maharjan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SibendraMaharjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibendra-maharjan-945302323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibendra07@gmail.com) 
 
 <!-- <h2>❤️ Support Me</h2> -->
 <!-- <p><p>
