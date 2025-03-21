@@ -20,7 +20,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sibendra07&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>⚡️ Where to find me</h2>
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Sibendra07) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucifer4742) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sibendra.maharjan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SibendraMaharjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibendra-maharjan-945302323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibendra07@gmail.com) 
+<p><a target="_blank" href="https://www.linkedin.com/in/sibendramaharjan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/sibendra.maharjan/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/sibendramaharjan/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://discord.gg/GWU78mF2" style="display: inline-block;"><img src="https://img.shields.io/badge/discord-logo?style=for-the-badge&logo=discord&logoColor=blue&color=%23F35369%22%20alt=%22discord%22" alt="discord" /></a></p>
 
 <!-- <h2>❤️ Support Me</h2> -->
 <!-- <p><p>
